@@ -4,7 +4,7 @@ email: your-email@domain.com
 url: https://github.com/urbansharks/urbansharks.github.io
 description: "Urban Sharks NFT"
 keywords: "nft, nfts, ooensea, urban sharks"
-skills: "Pixel Art Artist- Graphic Artist - User Experience Designer"
+skills: "Pixel Art Artist"
 meta_author: Lord Shark
 
 # Google webmaster tools
@@ -38,17 +38,12 @@ footer:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/urbansharks_
 
 
 
 
 
 
-  - title: github
-    url: http://github.com/urbansharks
 
 # Postal address (add as many lines as necessary)
 
